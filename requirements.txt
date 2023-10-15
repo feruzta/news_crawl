@@ -1,4 +1,4 @@
-Streamlit
-Pandas
-TextBlob
-NewsApiClient
+streamlit
+pandas
+textblob
+newsapiclient
