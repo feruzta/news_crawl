@@ -1,4 +1,4 @@
 streamlit
 pandas
 textblob
-newsapiclient
+newsapi-python
